@@ -1,0 +1,5 @@
+problem statement :Recommend cources for students based on interest;
+problem solutions: we have design a machine learning solution to pridict the cources a student might be interested in,
+ with the help of data collected by the students to measure aptitude and interested subject.
+ibm cloud: by using knowledge studio in ibm cloud we approached towards our solution.
+ 
